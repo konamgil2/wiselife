@@ -1,0 +1,22 @@
+{
+  "name": "wiselife",
+  "version": "0.0.1",
+  "description": "wiselife's application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konamgil2/wiselife.git"
+  },
+  "keywords": [
+    "wiselife"
+  ],
+  "author": "namgil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konamgil2/wiselife/issues"
+  },
+  "homepage": "https://github.com/konamgil2/wiselife#readme"
+}
